@@ -49,5 +49,5 @@ Thumbs.db
 backend/chroma.log
 backend/chroma_data
 
-notebooks/
-resources/
+notebooks/*
+resources/*
